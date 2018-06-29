@@ -1,0 +1,1579 @@
+BubblePopALT({
+  "MapName": "BubblePopALT",
+  "JDVersion": 2016,
+  "OriginalJDVersion": 2,
+  "Artist": "Blur",
+  "Title": "Song 2",
+  "Credits": "WIP",
+  "NumCoach": 1,
+  "CountInProgression": 1,
+  "DancerName": "Unknown Dancer",
+  "LocaleID": 14524,
+  "MojoValue": 0,
+  "Mode": 6,
+  "Status": 9,
+  "LyricsType": 0,
+  "BackgroundType": 0,
+  "Difficulty": 2,
+  "DefaultColors": {
+    "lyrics": "0xFFFF0000",
+    "theme": "0xFFFFFFFF",
+    "songColor_1A": "0xFFE68EF9",
+    "songColor_1B": "0xFF643189",
+    "songColor_2A": "0xFFF9B3D5",
+    "songColor_2B": "0xFFFC76A1"
+  },
+  "lyricsColor": "#FF0000",
+  "videoOffset": 4521,
+  "beats": [
+        0,
+        462,
+        924,
+        1386,
+        1848,
+        2311,
+        2773,
+        3235,
+        3697,
+        4160,
+        4622,
+        5084,
+        5550,
+        6010,
+        6477,
+        6933,
+        7398,
+        7852,
+        8325,
+        8787,
+        9251,
+        9711,
+        10179,
+        10636,
+        11098,
+        11560,
+        12023,
+        12485,
+        12952,
+        13410,
+        13872,
+        14334,
+        14797,
+        15259,
+        15721,
+        16184,
+        16635,
+        17128,
+        17606,
+        18033,
+        18483,
+        18957,
+        19420,
+        19873,
+        20344,
+        20810,
+        21269,
+        21734,
+        22194,
+        22656,
+        23118,
+        23579,
+        24048,
+        24505,
+        24974,
+        25430,
+        25902,
+        26346,
+        26817,
+        27274,
+        27741,
+        28204,
+        28666,
+        29128,
+        29591,
+        30059,
+        30515,
+        30975,
+        31440,
+        31910,
+        32372,
+        32834,
+        33297,
+        33759,
+        34221,
+        34684,
+        35146,
+        35608,
+        36071,
+        36533,
+        36995,
+        37458,
+        37920,
+        38382,
+        38845,
+        39307,
+        39769,
+        40231,
+        40694,
+        41156,
+        41618,
+        42081,
+        42543,
+        43005,
+        43468,
+        43930,
+        44392,
+        44855,
+        45317,
+        45779,
+        46253,
+        46704,
+        47166,
+        47619,
+        48091,
+        48553,
+        49015,
+        49478,
+        49940,
+        50402,
+        50865,
+        51327,
+        51789,
+        52264,
+        52714,
+        53176,
+        53639,
+        54101,
+        54563,
+        55025,
+        55488,
+        55950,
+        56412,
+        56881,
+        57345,
+        57799,
+        58262,
+        58732,
+        59186,
+        59659,
+        60111,
+        60580,
+        61042,
+        61509,
+        61969,
+        62436,
+        62885,
+        63362,
+        63812,
+        64293,
+        64742,
+        65188,
+        65664,
+        66128,
+        66595,
+        67056,
+        67524,
+        67974,
+        68433,
+        68895,
+        69365,
+        69819,
+        70297,
+        70760,
+        71225,
+        71669,
+        72155,
+        72601,
+        73086,
+        73535,
+        73999,
+        74454,
+        74935,
+        75388,
+        75858,
+        76313,
+        76786,
+        77237,
+        77699,
+        78155,
+        78630,
+        79089,
+        79556,
+        80002,
+        80487,
+        80937,
+        81400,
+        81851,
+        82333,
+        82789,
+        83258,
+        83712,
+        84186,
+        84641,
+        85116,
+        85571,
+        86012,
+        86462,
+        86940,
+        87398,
+        87861,
+        88333,
+        88783,
+        89257,
+        89711,
+        90176,
+        90635,
+        91108,
+        91585,
+        92041,
+        92463,
+        92957,
+        93407,
+        93875,
+        94334,
+        94806,
+        95278,
+        95734,
+        96187,
+        96651,
+        97108,
+        97560,
+        98008,
+        98492,
+        98957,
+        99421,
+        99890,
+        100360,
+        100816,
+        101273,
+        101734,
+        102203,
+        102655,
+        103133,
+        103603,
+        104035,
+        104505,
+        104962,
+        105429,
+        105901,
+        106363,
+        106826,
+        107277,
+        107747,
+        108211,
+        108665,
+        109128,
+        109596,
+        110059,
+        110519,
+        110992,
+        111459,
+        111917,
+        112366,
+        112830,
+        113303,
+        113768,
+        114229,
+        114696,
+        115143,
+        115608,
+        116069,
+        116525,
+        116987,
+        117467,
+        117916,
+        118386,
+        118850,
+        119310,
+        119761,
+        120227,
+        120686,
+        121148,
+        121628,
+        122108,
+        122589,
+        123069,
+        123549,
+        124030,
+        124510,
+        124990
+    ],
+    "lyrics": [
+        {
+            "time": 16184,
+            "duration": 462,
+            "text": "Woo ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 16635,
+            "duration": 442,
+            "text": "oo",
+            "isLineEnding": 1
+        },
+        {
+            "time": 19873,
+            "duration": 462,
+            "text": "Woo ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 20344,
+            "duration": 462,
+            "text": "oo",
+            "isLineEnding": 1
+        },
+        {
+            "time": 23579,
+            "duration": 462,
+            "text": "Woo ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 24048,
+            "duration": 462,
+            "text": "oo",
+            "isLineEnding": 1
+        },
+        {
+            "time": 27274,
+            "duration": 462,
+            "text": "Woo ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 27741,
+            "duration": 462,
+            "text": "oo",
+            "isLineEnding": 1
+        },
+        {
+            "time": 30725,
+            "duration": 231,
+            "text": "I ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 30955,
+            "duration": 231,
+            "text": "got ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 31188,
+            "duration": 231,
+            "text": "my ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 31420,
+            "duration": 462,
+            "text": "head ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 31890,
+            "duration": 346,
+            "text": "checked",
+            "isLineEnding": 1
+        },
+        {
+            "time": 34452,
+            "duration": 231,
+            "text": "By ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 34684,
+            "duration": 231,
+            "text": "a ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 34915,
+            "duration": 231,
+            "text": "jum",
+            "isLineEnding": 0
+        },
+        {
+            "time": 35146,
+            "duration": 462,
+            "text": "bo ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 35608,
+            "duration": 404,
+            "text": "jet",
+            "isLineEnding": 1
+        },
+        {
+            "time": 38131,
+            "duration": 250,
+            "text": "It ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 38382,
+            "duration": 231,
+            "text": "was",
+            "isLineEnding": 0
+        },
+        {
+            "time": 38613,
+            "duration": 231,
+            "text": "n't ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 38845,
+            "duration": 462,
+            "text": "ea",
+            "isLineEnding": 0
+        },
+        {
+            "time": 39307,
+            "duration": 423,
+            "text": "sy",
+            "isLineEnding": 1
+        },
+        {
+            "time": 41849,
+            "duration": 231,
+            "text": "But ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 42081,
+            "duration": 231,
+            "text": "no",
+            "isLineEnding": 0
+        },
+        {
+            "time": 42312,
+            "duration": 231,
+            "text": "thing ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 42543,
+            "duration": 462,
+            "text": "",
+            "isLineEnding": 0
+        },
+        {
+            "time": 42543,
+            "duration": 1366,
+            "text": "is",
+            "isLineEnding": 1
+        },
+        {
+            "time": 43005,
+            "duration": 904,
+            "text": "",
+            "isLineEnding": 0
+        },
+        {
+            "time": 45086,
+            "duration": 693,
+            "text": "No",
+            "isLineEnding": 1
+        },
+        {
+            "time": 45779,
+            "duration": 346,
+            "text": "Woo ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 46134,
+            "duration": 365,
+            "text": "oo",
+            "isLineEnding": 1
+        },
+        {
+            "time": 47600,
+            "duration": 231,
+            "text": "When ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 47835,
+            "duration": 231,
+            "text": "I ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 48071,
+            "duration": 231,
+            "text": "feel ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 48302,
+            "duration": 231,
+            "text": "hea",
+            "isLineEnding": 0
+        },
+        {
+            "time": 48533,
+            "duration": 231,
+            "text": "vy ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 48764,
+            "duration": 231,
+            "text": "me",
+            "isLineEnding": 0
+        },
+        {
+            "time": 48995,
+            "duration": 462,
+            "text": "tal",
+            "isLineEnding": 1
+        },
+        {
+            "time": 49478,
+            "duration": 462,
+            "text": "Woo ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 49940,
+            "duration": 462,
+            "text": "oo",
+            "isLineEnding": 1
+        },
+        {
+            "time": 51307,
+            "duration": 250,
+            "text": "And ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 51558,
+            "duration": 211,
+            "text": "a ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 51769,
+            "duration": 231,
+            "text": "piece ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 52006,
+            "duration": 231,
+            "text": "that ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 52244,
+            "duration": 231,
+            "text": "I'm ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 52470,
+            "duration": 231,
+            "text": "made ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 52695,
+            "duration": 481,
+            "text": "of",
+            "isLineEnding": 1
+        },
+        {
+            "time": 53176,
+            "duration": 462,
+            "text": "Woo ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 53639,
+            "duration": 462,
+            "text": "oo",
+            "isLineEnding": 1
+        },
+        {
+            "time": 55025,
+            "duration": 231,
+            "text": "When ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 55256,
+            "duration": 231,
+            "text": "I ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 55488,
+            "duration": 231,
+            "text": "lie ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 55719,
+            "duration": 231,
+            "text": "and ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 55950,
+            "duration": 231,
+            "text": "I'm ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 56181,
+            "duration": 462,
+            "text": "ea",
+            "isLineEnding": 0
+        },
+        {
+            "time": 56646,
+            "duration": 442,
+            "text": "sy",
+            "isLineEnding": 1
+        },
+        {
+            "time": 57345,
+            "duration": 462,
+            "text": "All ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 57799,
+            "duration": 231,
+            "text": "of ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 58030,
+            "duration": 231,
+            "text": "the ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 58262,
+            "duration": 462,
+            "text": "time",
+            "isLineEnding": 1
+        },
+        {
+            "time": 58732,
+            "duration": 231,
+            "text": "That ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 58959,
+            "duration": 231,
+            "text": "I ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 59186,
+            "duration": 231,
+            "text": "ne",
+            "isLineEnding": 0
+        },
+        {
+            "time": 59422,
+            "duration": 462,
+            "text": "ver ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 59885,
+            "duration": 462,
+            "text": "show",
+            "isLineEnding": 1
+        },
+        {
+            "time": 60345,
+            "duration": 231,
+            "text": "Why ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 60580,
+            "duration": 231,
+            "text": "I ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 60811,
+            "duration": 231,
+            "text": "need ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 61042,
+            "duration": 462,
+            "text": "you",
+            "isLineEnding": 1
+        },
+        {
+            "time": 63123,
+            "duration": 231,
+            "text": "Please ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 63362,
+            "duration": 231,
+            "text": "I ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 63587,
+            "duration": 481,
+            "text": "need ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 64072,
+            "duration": 904,
+            "text": "you",
+            "isLineEnding": 1
+        },
+        {
+            "time": 71428,
+            "duration": 231,
+            "text": "I ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 71650,
+            "duration": 231,
+            "text": "dropped ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 71891,
+            "duration": 231,
+            "text": "my ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 72134,
+            "duration": 462,
+            "text": "head ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 72582,
+            "duration": 519,
+            "text": "dumb",
+            "isLineEnding": 1
+        },
+        {
+            "time": 75388,
+            "duration": 231,
+            "text": "When ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 75623,
+            "duration": 231,
+            "text": "I ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 75858,
+            "duration": 462,
+            "text": "was ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 76313,
+            "duration": 462,
+            "text": "young",
+            "isLineEnding": 1
+        },
+        {
+            "time": 78859,
+            "duration": 231,
+            "text": "It's ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 79089,
+            "duration": 231,
+            "text": "not ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 79322,
+            "duration": 231,
+            "text": "my ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 79556,
+            "duration": 462,
+            "text": "prob",
+            "isLineEnding": 0
+        },
+        {
+            "time": 80002,
+            "duration": 462,
+            "text": "lem",
+            "isLineEnding": 1
+        },
+        {
+            "time": 82561,
+            "duration": 231,
+            "text": "It's ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 82789,
+            "duration": 231,
+            "text": "not ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 83023,
+            "duration": 308,
+            "text": "my",
+            "isLineEnding": 1
+        },
+        {
+            "time": 83712,
+            "duration": 462,
+            "text": "Prob",
+            "isLineEnding": 0
+        },
+        {
+            "time": 84186,
+            "duration": 2079,
+            "text": "lem",
+            "isLineEnding": 1
+        },
+        {
+            "time": 86462,
+            "duration": 770,
+            "text": "Woo ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 87245,
+            "duration": 866,
+            "text": "oo",
+            "isLineEnding": 1
+        },
+        {
+            "time": 88313,
+            "duration": 231,
+            "text": "When ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 88539,
+            "duration": 231,
+            "text": "I ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 88764,
+            "duration": 231,
+            "text": "feel ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 89000,
+            "duration": 231,
+            "text": "hea",
+            "isLineEnding": 0
+        },
+        {
+            "time": 89237,
+            "duration": 231,
+            "text": "vy ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 89465,
+            "duration": 231,
+            "text": "me",
+            "isLineEnding": 0
+        },
+        {
+            "time": 89692,
+            "duration": 462,
+            "text": "tal",
+            "isLineEnding": 1
+        },
+        {
+            "time": 90176,
+            "duration": 462,
+            "text": "Woo ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 90635,
+            "duration": 462,
+            "text": "oo",
+            "isLineEnding": 1
+        },
+        {
+            "time": 92022,
+            "duration": 250,
+            "text": "And ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 92252,
+            "duration": 211,
+            "text": "a ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 92445,
+            "duration": 231,
+            "text": "piece ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 92689,
+            "duration": 231,
+            "text": "that ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 92936,
+            "duration": 231,
+            "text": "I'm ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 93163,
+            "duration": 231,
+            "text": "made ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 93388,
+            "duration": 481,
+            "text": "of",
+            "isLineEnding": 1
+        },
+        {
+            "time": 93875,
+            "duration": 462,
+            "text": "Woo ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 94334,
+            "duration": 462,
+            "text": "oo",
+            "isLineEnding": 1
+        },
+        {
+            "time": 95734,
+            "duration": 231,
+            "text": "When ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 95960,
+            "duration": 231,
+            "text": "I ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 96187,
+            "duration": 231,
+            "text": "lie ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 96419,
+            "duration": 231,
+            "text": "and ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 96651,
+            "duration": 231,
+            "text": "I'm ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 96879,
+            "duration": 462,
+            "text": "ea",
+            "isLineEnding": 0
+        },
+        {
+            "time": 97334,
+            "duration": 442,
+            "text": "sy",
+            "isLineEnding": 1
+        },
+        {
+            "time": 98008,
+            "duration": 462,
+            "text": "All ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 98492,
+            "duration": 231,
+            "text": "of ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 98724,
+            "duration": 231,
+            "text": "the ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 98957,
+            "duration": 462,
+            "text": "time",
+            "isLineEnding": 1
+        },
+        {
+            "time": 99421,
+            "duration": 231,
+            "text": "That ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 99655,
+            "duration": 231,
+            "text": "I ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 99890,
+            "duration": 231,
+            "text": "ne",
+            "isLineEnding": 0
+        },
+        {
+            "time": 100125,
+            "duration": 462,
+            "text": "ver ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 100588,
+            "duration": 462,
+            "text": "show",
+            "isLineEnding": 1
+        },
+        {
+            "time": 101044,
+            "duration": 231,
+            "text": "Why ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 101273,
+            "duration": 231,
+            "text": "I ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 101503,
+            "duration": 231,
+            "text": "need ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 101734,
+            "duration": 462,
+            "text": "you",
+            "isLineEnding": 1
+        },
+        {
+            "time": 103819,
+            "duration": 231,
+            "text": "Please ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 104035,
+            "duration": 231,
+            "text": "I ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 104270,
+            "duration": 481,
+            "text": "need ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 104752,
+            "duration": 904,
+            "text": "you",
+            "isLineEnding": 1
+        },
+        {
+            "time": 108665,
+            "duration": 231,
+            "text": "Yeah ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 108896,
+            "duration": 693,
+            "text": "yeah!",
+            "isLineEnding": 1
+        },
+        {
+            "time": 112366,
+            "duration": 231,
+            "text": "Yeah ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 112598,
+            "duration": 693,
+            "text": "yeah!",
+            "isLineEnding": 1
+        },
+        {
+            "time": 116069,
+            "duration": 231,
+            "text": "Yeah ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 116297,
+            "duration": 693,
+            "text": "yeah!",
+            "isLineEnding": 1
+        },
+        {
+            "time": 119761,
+            "duration": 827,
+            "text": "Oh ",
+            "isLineEnding": 0
+        },
+        {
+            "time": 120590,
+            "duration": 365,
+            "text": "yeah",
+            "isLineEnding": 1
+        }
+    ],
+    "pictos": [
+        {
+            "time": 1848,
+            "duration": 134,
+            "name": "croise_p"
+        },
+        {
+            "time": 2311,
+            "duration": 211,
+            "name": "decroise_p"
+        },
+        {
+            "time": 9711,
+            "duration": 365,
+            "name": "yeahcroise_f"
+        },
+        {
+            "time": 10636,
+            "duration": 365,
+            "name": "yeahdecroise_f"
+        },
+        {
+            "time": 16184,
+            "duration": 115,
+            "name": "saut01_p"
+        },
+        {
+            "time": 17128,
+            "duration": 192,
+            "name": "whoohoo01_p"
+        },
+        {
+            "time": 18033,
+            "duration": 269,
+            "name": "whoohoo02_p"
+        },
+        {
+            "time": 18957,
+            "duration": 192,
+            "name": "whoohoo01_p"
+        },
+        {
+            "time": 19873,
+            "duration": 288,
+            "name": "saut01_f"
+        },
+        {
+            "time": 20810,
+            "duration": 192,
+            "name": "whoohoo03_p"
+        },
+        {
+            "time": 21734,
+            "duration": 269,
+            "name": "whoohoo04_p"
+        },
+        {
+            "time": 22656,
+            "duration": 192,
+            "name": "whoohoo03_p"
+        },
+        {
+            "time": 23579,
+            "duration": 288,
+            "name": "saut01reverse_f"
+        },
+        {
+            "time": 24505,
+            "duration": 192,
+            "name": "whoohoo01_p"
+        },
+        {
+            "time": 25430,
+            "duration": 269,
+            "name": "whoohoo02_p"
+        },
+        {
+            "time": 26346,
+            "duration": 192,
+            "name": "whoohoo01_p"
+        },
+        {
+            "time": 27274,
+            "duration": 288,
+            "name": "saut01_f"
+        },
+        {
+            "time": 28204,
+            "duration": 192,
+            "name": "whoohoo03_p"
+        },
+        {
+            "time": 29128,
+            "duration": 269,
+            "name": "whoohoo04_p"
+        },
+        {
+            "time": 30059,
+            "duration": 192,
+            "name": "whoohoo03_p"
+        },
+        {
+            "time": 31440,
+            "duration": 327,
+            "name": "moulinette_f"
+        },
+        {
+            "time": 33297,
+            "duration": 327,
+            "name": "moulinettereverse_f"
+        },
+        {
+            "time": 39307,
+            "duration": 404,
+            "name": "yeahcroisefille_f"
+        },
+        {
+            "time": 40231,
+            "duration": 385,
+            "name": "yeahdecroisefille_f"
+        },
+        {
+            "time": 45779,
+            "duration": 173,
+            "name": "saut02_p"
+        },
+        {
+            "time": 46704,
+            "duration": 192,
+            "name": "whoohoo01f_p"
+        },
+        {
+            "time": 47619,
+            "duration": 269,
+            "name": "whoohoo02f_p"
+        },
+        {
+            "time": 48553,
+            "duration": 192,
+            "name": "whoohoo01f_p"
+        },
+        {
+            "time": 49478,
+            "duration": 288,
+            "name": "saut02_f"
+        },
+        {
+            "time": 50402,
+            "duration": 192,
+            "name": "whoohoo03f_p"
+        },
+        {
+            "time": 51327,
+            "duration": 269,
+            "name": "whoohoo04f_p"
+        },
+        {
+            "time": 52264,
+            "duration": 192,
+            "name": "whoohoo03f_p"
+        },
+        {
+            "time": 53176,
+            "duration": 288,
+            "name": "saut02reverse_f"
+        },
+        {
+            "time": 54101,
+            "duration": 192,
+            "name": "whoohoo01f_p"
+        },
+        {
+            "time": 55025,
+            "duration": 269,
+            "name": "whoohoo02f_p"
+        },
+        {
+            "time": 55950,
+            "duration": 192,
+            "name": "whoohoo01f_p"
+        },
+        {
+            "time": 57345,
+            "duration": 346,
+            "name": "guitare_f"
+        },
+        {
+            "time": 62885,
+            "duration": 308,
+            "name": "goldguitaremoulinette_f"
+        },
+        {
+            "time": 64742,
+            "duration": 308,
+            "name": "equilibrehaut_p"
+        },
+        {
+            "time": 66128,
+            "duration": 134,
+            "name": "equilibrecroise_p"
+        },
+        {
+            "time": 66595,
+            "duration": 288,
+            "name": "equilibrebas_p"
+        },
+        {
+            "time": 67974,
+            "duration": 134,
+            "name": "equilibrecroise_p"
+        },
+        {
+            "time": 68433,
+            "duration": 308,
+            "name": "equilibrehaut_p"
+        },
+        {
+            "time": 69819,
+            "duration": 134,
+            "name": "equilibrecroise_p"
+        },
+        {
+            "time": 70297,
+            "duration": 288,
+            "name": "equilibrebas_p"
+        },
+        {
+            "time": 72155,
+            "duration": 134,
+            "name": "croise03_p"
+        },
+        {
+            "time": 72601,
+            "duration": 211,
+            "name": "decroise03_p"
+        },
+        {
+            "time": 80002,
+            "duration": 365,
+            "name": "yeahcroise03_f"
+        },
+        {
+            "time": 80937,
+            "duration": 365,
+            "name": "yeahdecroise03_f"
+        },
+        {
+            "time": 86462,
+            "duration": 154,
+            "name": "saut03_p"
+        },
+        {
+            "time": 87398,
+            "duration": 192,
+            "name": "whoohoo0103_p"
+        },
+        {
+            "time": 88333,
+            "duration": 269,
+            "name": "whoohoo0203_p"
+        },
+        {
+            "time": 89257,
+            "duration": 192,
+            "name": "whoohoo0103_p"
+        },
+        {
+            "time": 90176,
+            "duration": 288,
+            "name": "saut03_f"
+        },
+        {
+            "time": 91108,
+            "duration": 192,
+            "name": "whoohoo0303_p"
+        },
+        {
+            "time": 92041,
+            "duration": 269,
+            "name": "whoohoo0403_p"
+        },
+        {
+            "time": 92957,
+            "duration": 192,
+            "name": "whoohoo0303_p"
+        },
+        {
+            "time": 93875,
+            "duration": 288,
+            "name": "saut03reverse_f"
+        },
+        {
+            "time": 94806,
+            "duration": 192,
+            "name": "whoohoo0103_p"
+        },
+        {
+            "time": 95734,
+            "duration": 269,
+            "name": "whoohoo0203_p"
+        },
+        {
+            "time": 96651,
+            "duration": 192,
+            "name": "whoohoo0103_p"
+        },
+        {
+            "time": 98008,
+            "duration": 346,
+            "name": "guitare03_f"
+        },
+        {
+            "time": 103603,
+            "duration": 308,
+            "name": "goldguitaremoulinette_f"
+        },
+        {
+            "time": 105429,
+            "duration": 308,
+            "name": "equilibrehaut03_p"
+        },
+        {
+            "time": 106826,
+            "duration": 134,
+            "name": "equilibrecroise03_p"
+        },
+        {
+            "time": 107277,
+            "duration": 288,
+            "name": "equilibrebas03_p"
+        },
+        {
+            "time": 108665,
+            "duration": 134,
+            "name": "equilibrecroise03_p"
+        },
+        {
+            "time": 109128,
+            "duration": 308,
+            "name": "equilibrehaut03_p"
+        },
+        {
+            "time": 110519,
+            "duration": 134,
+            "name": "equilibrecroise03_p"
+        },
+        {
+            "time": 110992,
+            "duration": 288,
+            "name": "equilibrebas03_p"
+        },
+        {
+            "time": 112366,
+            "duration": 288,
+            "name": "demitour_f"
+        },
+        {
+            "time": 112830,
+            "duration": 308,
+            "name": "equilibrebasreverse03_p"
+        },
+        {
+            "time": 114229,
+            "duration": 134,
+            "name": "equilibrecroisereverse03_p"
+        },
+        {
+            "time": 114696,
+            "duration": 327,
+            "name": "equilibrehautreverse03_p"
+        },
+        {
+            "time": 116069,
+            "duration": 134,
+            "name": "equilibrecroisereverse03_p"
+        },
+        {
+            "time": 116525,
+            "duration": 308,
+            "name": "equilibrebasreverse03_p"
+        },
+        {
+            "time": 117916,
+            "duration": 134,
+            "name": "equilibrecroisereverse03_p"
+        },
+        {
+            "time": 118386,
+            "duration": 327,
+            "name": "equilibrehautreverse03_p"
+        },
+        {
+            "time": 120227,
+            "duration": 154,
+            "name": "goldyeah_p"
+        }
+    ],
+    "AudioPreview": {
+        "coverflow": {
+            "startbeat": 99
+        },
+        "prelobby": {
+            "startbeat": 99
+        }
+    },
+    "AudioPreviewFadeTime": 0.5
+})
