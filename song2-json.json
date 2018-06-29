@@ -24,7 +24,7 @@ BubblePopALT({
     "songColor_2B": "0xFFFC76A1"
   },
   "lyricsColor": "#FF0000",
-  "videoOffset": 4521,
+  "videoOffset": 0,
   "beats": [
         0,
         462,
