@@ -4,189 +4,51 @@
     "height": 256
   },
   "images": {
-    "croise03_p": [
-      0,
-      0
-    ],
-    "decroise03_p": [
-      256,
-      0
-    ],
-    "decroise_p": [
-      512,
-      0
-    ],
-    "demitour_f": [
-      768,
-      0
-    ],
-    "equilibrebas03_p": [
-      1024,
-      0
-    ],
-    "equilibrebasreverse03_p": [
-      1280,
-      0
-    ],
-    "equilibrebas_p": [
-      1536,
-      0
-    ],
-    "equilibrecroise03_p": [
-      1792,
-      0
-    ],
-    "equilibrecroisereverse03_p": [
-      2048,
-      0
-    ],
-    "equilibrecroise_p": [
-      2304,
-      0
-    ],
-    "equilibrehaut03_p": [
-      2560,
-      0
-    ],
-    "equilibrehautreverse03_p": [
-      2816,
-      0
-    ],
-    "equilibre_croise_p": [
-      3072,
-      0
-    ],
-    "goldguitaremoulinette_f": [
-      3328,
-      0
-    ],
-    "goldyeah_p": [
-      3584,
-      0
-    ],
-    "guitare03_f": [
-      3840,
-      0
-    ],
-    "guitare_f": [
-      4096,
-      0
-    ],
-    "moulinettereverse_f": [
-      4352,
-      0
-    ],
-    "moulinette_f": [
-      4608,
-      0
-    ],
-    "saut01reverse_f": [
-      4864,
-      0
-    ],
-    "saut01_f": [
-      5120,
-      0
-    ],
-    "saut01_p": [
-      5376,
-      0
-    ],
-    "saut02reverse_f": [
-      5632,
-      0
-    ],
-    "saut02_f": [
-      5888,
-      0
-    ],
-    "saut02_p": [
-      6144,
-      0
-    ],
-    "saut03reverse_f": [
-      6400,
-      0
-    ],
-    "saut03_f": [
-      6656,
-      0
-    ],
-    "saut03_p": [
-      6912,
-      0
-    ],
-    "whoohoo0103_p": [
-      7168,
-      0
-    ],
-    "whoohoo01f_p": [
-      7424,
-      0
-    ],
-    "whoohoo01_p": [
-      7680,
-      0
-    ],
-    "whoohoo0203_p": [
-      7936,
-      0
-    ],
-    "whoohoo02f_p": [
-      8192,
-      0
-    ],
-    "whoohoo02_p": [
-      8448,
-      0
-    ],
-    "whoohoo0303_p": [
-      8704,
-      0
-    ],
-    "whoohoo03f_p": [
-      8960,
-      0
-    ],
-    "whoohoo03_p": [
-      9216,
-      0
-    ],
-    "whoohoo0403_p": [
-      9472,
-      0
-    ],
-    "whoohoo04f_p": [
-      9728,
-      0
-    ],
-    "whoohoo04_p": [
-      9984,
-      0
-    ],
-    "yeahcroise03_f": [
-      10240,
-      0
-    ],
-    "yeahcroisefille_f": [
-      10496,
-      0
-    ],
-    "yeahcroise_f": [
-      10752,
-      0
-    ],
-    "yeahdecroise03_f": [
-      11008,
-      0
-    ],
-    "yeahdecroisefille_f": [
-      11264,
-      0
-    ],
-    "yeahdecroise_f": [
-      11520,
-      0
-    ]
+    "croise03_p": [0, 0],
+    "decroise03_p": [256, 0],
+    "decroise_p": [512, 0],
+    "demitour_f": [768, 0],
+    "equilibrebas03_p": [1024, 0],
+    "equilibrebasreverse03_p": [1280, 0],
+    "equilibrebas_p": [1536, 0],
+    "equilibrecroise03_p": [1792, 0],
+    "equilibrecroisereverse03_p": [2048, 0],
+    "equilibrecroise_p": [2304, 0],
+    "equilibrehaut03_p": [2560, 0],
+    "equilibrehautreverse03_p": [2816, 0],
+    "equilibre_croise_p": [3072, 0],
+    "goldguitaremoulinette_f": [3328, 0],
+    "goldyeah_p": [3584, 0],
+    "guitare03_f": [3840, 0],
+    "guitare_f": [4096, 0],
+    "moulinettereverse_f": [4352, 0],
+    "moulinette_f": [4608, 0],
+    "saut01reverse_f": [4864, 0],
+    "saut01_f": [5120, 0],
+    "saut01_p": [5376, 0],
+    "saut02reverse_f": [5632, 0],
+    "saut02_f": [5888, 0],
+    "saut02_p": [6144, 0],
+    "saut03reverse_f": [6400, 0],
+    "saut03_f": [6656, 0],
+    "saut03_p": [6912, 0],
+    "whoohoo0103_p": [7168, 0],
+    "whoohoo01f_p": [7424, 0],
+    "whoohoo01_p": [7680, 0],
+    "whoohoo0203_p": [7936, 0],
+    "whoohoo02f_p": [8192, 0],
+    "whoohoo02_p": [8448, 0],
+    "whoohoo0303_p": [8704, 0],
+    "whoohoo03f_p": [8960, 0],
+    "whoohoo03_p": [9216, 0],
+    "whoohoo0403_p": [9472, 0],
+    "whoohoo04f_p": [9728, 0],
+    "whoohoo04_p": [9984, 0],
+    "yeahcroise03_f": [10240, 0],
+    "yeahcroisefille_f": [10496, 0],
+    "yeahcroise_f": [10752, 0],
+    "yeahdecroise03_f": [11008, 0],
+    "yeahdecroisefille_f": [11264, 0],
+    "yeahdecroise_f": [11520, 0]
   }
 }
